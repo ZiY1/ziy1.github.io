@@ -1,5 +1,10 @@
 export const experience = [
     {
+        title: 'Software Engineer Intern, New York, NY | May 2025 - Present',
+        subtitle: 'Credit Acceptance',
+        description: '',
+    },
+    {
         title: 'Software Engineer Intern, New York, NY | Jun. 2022 - Aug. 2022',
         subtitle: 'Cantor Fitzgerald',
         description: '',
