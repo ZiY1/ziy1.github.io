@@ -11,7 +11,7 @@ export const contact = [
     },
     {
         icon: 'icon-[tabler--device-mobile]',
-        label: '+1 (929)-689-5437',
+        label: '+1 (929)-689-2426',
     },
     {
         icon: 'icon-[tabler--file-text]',

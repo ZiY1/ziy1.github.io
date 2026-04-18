@@ -23,7 +23,7 @@ export const projects = [
         image: '/images/projects/nexevent.webp',
         status: {
             text: 'View Source',
-            link: 'https://github.com/ZiY1/Jupiter',
+            link: 'https://github.com/ZiY1/nex-event-backend',
             icon: 'icon-[tabler--arrow-right]',
         },
         isFeatured: true,

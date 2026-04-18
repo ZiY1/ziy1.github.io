@@ -12,11 +12,11 @@ export const biography = [
         description: 'Graduated as B.S Computer Science from CUNY - City College with the highest honor.',
     },
     {
-        year: '2023',
-        description: 'Started M.S. Computer Engineering program at New York University',
+        year: '2025',
+        description: 'Graduated as M.S Computer Engineering from New York University with the highest honor.',
     },
     {
-        year: '2024',
-        description: 'Actively seeking full-time software engineer 2025 early career opportunities.',
+        year: '2026',
+        description: 'Actively seeking full-time software engineer 2026 early career opportunities.',
     },
 ]
