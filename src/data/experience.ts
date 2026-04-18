@@ -10,8 +10,8 @@ export const experience = [
         description: '',
     },
     {
-        title: 'Undergraduate Research Assistant, New York, NY | Jun. 2021 - Apr. 2022',
-        subtitle: 'City College Visual Computing Lab',
+        title: 'Software Engineer Researcher, New York, NY | Jun. 2021 - Apr. 2022',
+        subtitle: 'City University of New York',
         description: '',
     },
 ]
